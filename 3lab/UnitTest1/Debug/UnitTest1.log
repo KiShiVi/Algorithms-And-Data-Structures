@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\HomeUser\source\repos\3_lab_alg\3_lab_alg\BST.inl(36): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\HomeUser\source\repos\3_lab_alg\3_lab_alg\BST.inl(56): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\HomeUser\source\repos\3_lab_alg\3_lab_alg\BST.inl(65): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\HomeUser\source\repos\3_lab_alg\3_lab_alg\BST.inl(68): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\HomeUser\source\repos\3_lab_alg\3_lab_alg\BST.inl(27): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\HomeUser\source\repos\3_lab_alg\3_lab_alg\BST.inl(33): warning C4172: возвращение адреса локальной или временной переменной
+     Создается библиотека C:\Users\HomeUser\source\repos\3_lab_alg\Debug\UnitTest1.lib и объект C:\Users\HomeUser\source\repos\3_lab_alg\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\HomeUser\source\repos\3_lab_alg\Debug\UnitTest1.dll
