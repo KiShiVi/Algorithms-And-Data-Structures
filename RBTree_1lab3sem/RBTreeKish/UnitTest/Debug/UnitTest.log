@@ -1,0 +1,47 @@
+﻿  UnitTest.cpp
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(353,10): warning C4244: return: преобразование "float" в "T_value", возможна потеря данных
+          with
+          [
+              T_value=int
+          ]
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(350): message : во время компиляции функции-члена класс шаблон "T_value RBTree<int,T_value>::find(T_key)"
+          with
+          [
+              T_value=int,
+              T_key=int
+          ]
+C:\Users\HomeUser\source\repos\RBTreeKish\UnitTest\UnitTest.cpp(65): message : выполняется компиляция ссылки на экземпляр шаблон функции "T_value RBTree<int,T_value>::find(T_key)"
+          with
+          [
+              T_value=int,
+              T_key=int
+          ]
+C:\Users\HomeUser\source\repos\RBTreeKish\UnitTest\UnitTest.cpp(16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "RBTree<int,int>"
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(29,1): warning C4244: инициализация: преобразование "float" в "T_key", возможна потеря данных
+          with
+          [
+              T_key=int
+          ]
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(29): message : во время компиляции функции-члена класс шаблон "RBTree<int,int>::Node::Node(void)"
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(337): message : выполняется компиляция ссылки на экземпляр шаблон функции "RBTree<int,int>::Node::Node(void)"
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(352): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "RBTree<int,int>::Node"
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(350): message : во время компиляции функции-члена класс шаблон "T_value RBTree<int,T_value>::find(T_key)"
+          with
+          [
+              T_value=int,
+              T_key=int
+          ]
+C:\Users\HomeUser\source\repos\RBTreeKish\UnitTest\UnitTest.cpp(65): message : выполняется компиляция ссылки на экземпляр шаблон функции "T_value RBTree<int,T_value>::find(T_key)"
+          with
+          [
+              T_value=int,
+              T_key=int
+          ]
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(31,1): warning C4244: инициализация: преобразование "float" в "T_value", возможна потеря данных
+          with
+          [
+              T_value=int
+          ]
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(312): warning C4172: возвращение адреса локальной или временной переменной
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\HomeUser\source\repos\RBTreeKish\Debug\UnitTest.lib ш юс·хъЄ C:\Users\HomeUser\source\repos\RBTreeKish\Debug\UnitTest.exp
+  UnitTest.vcxproj -> C:\Users\HomeUser\source\repos\RBTreeKish\Debug\UnitTest.dll

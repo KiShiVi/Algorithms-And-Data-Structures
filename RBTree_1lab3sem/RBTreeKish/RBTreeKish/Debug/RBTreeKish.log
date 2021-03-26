@@ -1,0 +1,29 @@
+﻿  Source.cpp
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(29,1): warning C4244: инициализация: преобразование "float" в "T_key", возможна потеря данных
+          with
+          [
+              T_key=int
+          ]
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(29): message : во время компиляции функции-члена класс шаблон "RBTree<int,int>::Node::Node(void)"
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(337): message : выполняется компиляция ссылки на экземпляр шаблон функции "RBTree<int,int>::Node::Node(void)"
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(344): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "RBTree<int,int>::Node"
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(343): message : во время компиляции функции-члена класс шаблон "void RBTree<int,int>::insert(T_key,T_value)"
+          with
+          [
+              T_key=int,
+              T_value=int
+          ]
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\Source.cpp(9): message : выполняется компиляция ссылки на экземпляр шаблон функции "void RBTree<int,int>::insert(T_key,T_value)"
+          with
+          [
+              T_key=int,
+              T_value=int
+          ]
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\Source.cpp(8): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "RBTree<int,int>"
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(31,1): warning C4244: инициализация: преобразование "float" в "T_value", возможна потеря данных
+          with
+          [
+              T_value=int
+          ]
+C:\Users\HomeUser\source\repos\RBTreeKish\RBTreeKish\RBTree.h(312): warning C4172: возвращение адреса локальной или временной переменной
+  RBTreeKish.vcxproj -> C:\Users\HomeUser\source\repos\RBTreeKish\Debug\RBTreeKish.exe
