@@ -302,7 +302,7 @@ public:
 		Node* _nil;
 	public:
 
-		iterator(RBTree* tree) : _it(tree->_root), 
+		iterator(RBTree* tree) : _it(NULL), 
 			_value(tree->_root->_value), _key(tree->_root->_key), _nil(tree->_nil) {
 			_queueIt.push(tree->_root);
 		}
@@ -371,11 +371,9 @@ public:
 	list<T_key> get_keys() {
 		list<T_key> _out;
 		iterator it(this);
-		while (true) {
-			if (++it == NULL)
-				break;
+		while (++it != NULL) {
 			_out.push_back(*it);
-		}
+		} 
 		return _out;
 	}
 
@@ -384,27 +382,20 @@ public:
 	list<T_value> get_values() {
 		list<T_value> _out;
 		iterator it(this);
-		while (true) {
-			if (++it == NULL)
-				break;
+		while (++it != NULL) {
 			_out.push_back(it.getValue());
 		}
 		return _out;
 	}
 
 
-
+	
 	void print() {
-		list<T_key> _out;
 		iterator it(this);
-		while (true) {
-			if (++it == NULL)
-				break;
-			_out.push_back(*it);
-		}
 		cout << '\n';
-		for (list<int>::iterator it = _out.begin(); it != _out.end(); ++it)
+		while (++it != NULL) {
 			cout << *it << " ";
+		}
 	}
 };
 
