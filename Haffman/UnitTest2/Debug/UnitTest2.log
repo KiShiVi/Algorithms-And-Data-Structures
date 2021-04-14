@@ -1,0 +1,11 @@
+﻿  UnitTest2.cpp
+C:\Users\HomeUser\source\repos\Haffman\Haffman\HaffmanTree.h(91,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HomeUser\source\repos\Haffman\Haffman\Source.cpp(30,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HomeUser\source\repos\Haffman\Haffman\Source.cpp(57,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HomeUser\source\repos\Haffman\Haffman\Source.cpp(58,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HomeUser\source\repos\Haffman\Haffman\Source.cpp(73,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HomeUser\source\repos\Haffman\UnitTest2\UnitTest2.cpp(23,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HomeUser\source\repos\Haffman\UnitTest2\UnitTest2.cpp(60,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HomeUser\source\repos\Haffman\UnitTest2\UnitTest2.cpp(90,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HomeUser\source\repos\Haffman\Haffman\RBTree.h(313): warning C4172: возвращение адреса локальной или временной переменной
+  UnitTest2.vcxproj -> C:\Users\HomeUser\source\repos\Haffman\Debug\UnitTest2.dll

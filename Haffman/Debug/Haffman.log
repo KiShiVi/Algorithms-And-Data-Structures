@@ -1,8 +1,0 @@
-﻿  Source.cpp
-C:\Users\HomeUser\source\repos\Haffman\Haffman\HaffmanTree.h(90,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\HomeUser\source\repos\Haffman\Haffman\Source.cpp(30,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\HomeUser\source\repos\Haffman\Haffman\Source.cpp(57,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\HomeUser\source\repos\Haffman\Haffman\Source.cpp(58,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\HomeUser\source\repos\Haffman\Haffman\Source.cpp(73,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\HomeUser\source\repos\Haffman\Haffman\RBTree.h(313): warning C4172: возвращение адреса локальной или временной переменной
-  Haffman.vcxproj -> C:\Users\HomeUser\source\repos\Haffman\Debug\Haffman.exe
